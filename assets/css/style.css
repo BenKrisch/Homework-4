@@ -16,7 +16,8 @@ div {
 
 font-family: Corvinus Skyline ICG; src: url("CorvinusSkylineICG.ttf");
 font-size: 25px; 
-font-weight: bold;
+font-weight: bold; 
+
 
  }
 
@@ -24,15 +25,20 @@ h1 {
 
 font-size: 45px; 
 color: gold; 
-font-weight: bolder;
+font-weight: bolder; 
+margin-bottom: 50px;
 
  }
 
  h2 { 
 	
-	font-size: 35px;
+	font-size: 35px; 
+	margin-bottom: 25px; 
+	margin-top: 25px;
 
-  }
+  } 
+
+  
 #container { 
 	text-align: center;
 	background-image: url("../images/HarrySallyBackground.png");
